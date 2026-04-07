@@ -1,13 +1,15 @@
-[Vídeo de demonstração da ALU](https://youtu.be/9Lx4HaIXJZw)
+# [Vídeo de demonstração da ALU](https://youtu.be/9Lx4HaIXJZw)
 
-# ALU e CPU de 8 bits
+# [Vídeo de demonstração da CPU](https://youtu.be/_81t7YOlJ7w)
+
+## ALU e CPU de 8 bits
 
 Projeto de uma Unidade Lógica e Aritmética (ALU) e uma CPU simplificada de 8 bits, desenvolvido no simulador [Digital](https://github.com/hneemann/Digital).
 
 ---
 
 ## Sumário
-#  ALU & CPU de 8 bits (Simulador Digital)
+##  ALU & CPU de 8 bits (Simulador Digital)
 
 Este projeto apresenta uma **Unidade Lógica e Aritmética (ALU)** de 8 bits integrada a uma CPU funcional, construída do zero a partir de portas lógicas fundamentais no simulador **Digital**. O objetivo foi aplicar conceitos de arquitetura de computadores para criar um sistema capaz de processar 7 operações distintas de forma paralela e combinacional.
 
